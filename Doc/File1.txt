@@ -1,0 +1,2 @@
+1. Second change to study Objects in Git
+2. To learn commit --amend
