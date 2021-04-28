@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1. Second change to study Objects in Git
 2. To learn commit --amend
+=======
+Second change to study Objects in Git
+>>>>>>> origin/master
