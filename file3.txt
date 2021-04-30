@@ -2,3 +2,4 @@ This is to show changes in file3
 => to learn branching with merge
 => to learn branching with rebase
 => to understand in detail with rebasing
+=> one more time to learn rebasing
